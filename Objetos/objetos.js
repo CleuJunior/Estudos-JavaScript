@@ -19,8 +19,3 @@ console.log(cachorro.latir());
 console.log(cachorro.comida.preferida);
 console.log(cachorro.comida.menosGosta);
 
-document.addEventListener("click", funcaoClick);
-
-function funcaoClick() {
-    console.log("Fui Clickado");
-}
